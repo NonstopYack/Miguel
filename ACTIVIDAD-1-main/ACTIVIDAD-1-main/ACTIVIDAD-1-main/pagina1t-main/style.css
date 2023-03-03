@@ -1,5 +1,5 @@
 body {
-background-color: 	skyblue;
+background-color: 	rgb(182, 190, 67);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif 
 }
 
@@ -10,15 +10,15 @@ th{
     background-color: 	 #A14E3E;
 }
 table{
-    margin-left: 320px;
+    margin-left: 570px;
 }
 img{
 margin:5px 5px 5px 5px;
 }
 titulo1{
-    font-family: 'PROJECT SPACE', sans-serif;
-        font-size: 50px;
-        color: blue;
+    font-family: 'DEATHE MAACH NCV', sans-serif;
+        font-size: 40px;
+        color: rgb(28, 28, 41);
         text-align: center;                                       
 }
                                  
