@@ -1,0 +1,25 @@
+body {
+background-color: 	rgb(106, 192, 113);
+    font-family:'Gill Sans', 'Gill Sans M T', Calibri, 'Trebuchet MS', sans-serif
+}
+
+h1{
+    color: black;
+}
+th{
+    background-color: 	 #d8c518;
+}
+table{
+    margin-left: 450px;
+    background-color: rgba(185, 170, 31, 0.904)
+}
+img{
+margin:15px 15px 15px 15px;
+}
+titulo1{
+    font-family: 'Lunchtime Doubly So', sans-serif;                                           
+        font-size: 50px;
+        color: rgb(15, 24, 37);
+        text-align: center;                                       
+}
+                                 
